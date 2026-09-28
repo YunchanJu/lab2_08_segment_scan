@@ -1,0 +1,4 @@
+VCD info: dumpfile wave.vcd opened for output.
+LAB2_PASS segment_scan8 checks=194
+END_NS=1306
+C:\Users\samsung\lab2_08_segment_scan\sim\tb_segment_scan8.sv:24: $finish called at 1306000 (1ps)
